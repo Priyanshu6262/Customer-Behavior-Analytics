@@ -69,10 +69,6 @@ Interactive Filters & Slicers
 
 The main objective of this project is to develop practical data analytics skills by working on a real-world customer behavior dataset and generating business insights that support data-driven decision-making.
 
-📜 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and showcase it in your portfolio.
-
 👨‍💻 About the Author
 
 Priyanshu Kumar
